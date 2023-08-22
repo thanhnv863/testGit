@@ -1,6 +1,7 @@
 quang
 sadjsadjs
 <<<<<<< HEAD
+<<<<<<< HEAD
 anh thành nè 
 
 Mình Là Khôi nè. Hello các coder tương lai
@@ -13,3 +14,7 @@ Hello
 Mình Là Khôifai fai
 
 Thay Quang dep trai
+=======
+Dm THAY KHOI
+
+=== nansijfoawkoekfalplfpew
